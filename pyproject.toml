@@ -14,7 +14,8 @@ dependencies = [
     "opencv-python (>=4.11.0.86,<5.0.0.0)",
     "scikit-learn (>=1.6.1,<2.0.0)",
     "torch (>=2.7.0,<3.0.0)",
-    "torchvision (>=0.22.0,<0.23.0)"
+    "torchvision (>=0.22.0,<0.23.0)",
+    "ipykernel (>=6.29.5,<7.0.0)"
 ]
 
 
